@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kropensaft
-- 👀 I’m interested in working out and alcoholism
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on nothing 
+- 👋 Hi, I’m Kropen
+- 👀 I’m interested liver cirhosis and the Holy Roman empire
+- 🌱 I’m currently learning C++, and actively trying not to kill myself over acyclic directed graphs
+- 💞️ I only collaborate on coup´s and revolutions in the Irish lands 
 - 📫 How to reach me - Please dont reach me
 - 
 
